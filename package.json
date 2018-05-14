@@ -4,7 +4,8 @@
   "description": "Course JS TDD",
   "main": "index.js",
   "scripts": {
-    "lint": "./node_modules/.bin/eslint src/*.js"
+    "lint": "./node_modules/.bin/eslint src/*.js",
+    "prepush": "npm run lint"
   },
   "repository": {
     "type": "git",
