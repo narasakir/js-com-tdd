@@ -1,0 +1,24 @@
+{
+  "name": "js-com-tdd",
+  "version": "1.0.0",
+  "description": "Course JS TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narasakir/js-com-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Raphael Narasaki <narasakir@gmail.com> (https://github.com/narasakir/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/narasakir/js-com-tdd/issues"
+  },
+  "homepage": "https://github.com/narasakir/js-com-tdd#readme"
+}
