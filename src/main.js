@@ -5,6 +5,4 @@ const FizzBuzz = (num) => {
   if (num % 5 === 0) return 'Buzz'
   return num
 }
-const foo = () => 'bla'
-foo()
 export default FizzBuzz
